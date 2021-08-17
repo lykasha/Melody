@@ -1,2 +1,2 @@
-# Melody
-учебный проект Glo Academy
+# Melody - учебный проект Glo Academy
+## проект выполнила - Лащ Юля
